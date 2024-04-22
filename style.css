@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Name";
+  src: url("fonts/High\ Spirited.ttf");
+}
+
+body {
+  background-image: url(images/background.png);
+  z-index: -1;
+}
+
+.name {
+  font-family: serif;
+  font-style: italic;
+  font-size: 40px;
+  color: rgb(38, 20, 49);
+  margin-left: 20px;
+  margin-top: 0;
+}
+
